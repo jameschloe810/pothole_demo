@@ -18,6 +18,12 @@ The system uses **YOLOv8-Segmentation** on a **Raspberry Pi 5 + Hailo-8** edge d
 
 ## 📂 Folder Structure
 pothole_demo/
+
+
 ├── pothole_video.mp/
+
+
 │ ├── pothole_video.mp4
+
+
 └── README.md
