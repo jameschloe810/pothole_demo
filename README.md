@@ -27,3 +27,5 @@ pothole_demo/
 
 
 └── README.md
+
+The video shows the accuracy of the system working and detecting potholes. 
